@@ -4,12 +4,13 @@
     text-align: center;
 }
 .head h1 {
-    font-size: 60px;
+    font-size: 6rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: indianred;
 
 }
 .head p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(100, 46, 46);
+    color: rgb(145, 66, 66);
+    font-size: 1.4rem;
 }
