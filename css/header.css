@@ -1,0 +1,15 @@
+.head {
+    padding: 50px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.head h1 {
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: indianred;
+
+}
+.head p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(100, 46, 46);
+}
